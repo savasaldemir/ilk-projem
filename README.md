@@ -1,5 +1,5 @@
 # ilk-projem
-deneme porjem
+deneme projemm
 
 Python öğrenme çabaları içerisinde yol göstericim patika.dev sevgilerle... :)
 
